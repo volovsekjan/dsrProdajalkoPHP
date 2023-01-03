@@ -370,7 +370,7 @@ else{
             <form action="">
               <input type="text" placeholder="Vpiši email">
               <button>
-                Naroči se
+                Naroči se takoj!
               </button>
             </form>
           </div>
